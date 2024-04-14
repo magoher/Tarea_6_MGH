@@ -4,7 +4,7 @@ name: CI model to docker hub
 on:
   pull_request:
     branches:
-      - dev
+      - main
 
   # accion (cual es la acccion que queremos que haga)
 jobs:
